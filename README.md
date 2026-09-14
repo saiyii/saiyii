@@ -47,7 +47,7 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="https://discord.com/users/1163722812230471701" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
 </p>
 
 ---
