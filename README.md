@@ -52,4 +52,4 @@
 
 ---
 
-<p align="center"><i>⭐️ From <a href="https://github.com/saiyii">Elijah/Saiyii</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/YOUR_USERNAME">YOUR_USERNAME</a></i></p>
