@@ -1,5 +1,8 @@
 <h1 align="center">Hey, I'm Elijah 👋</h1>
-![V](https://komarev.com/ghpvc/?username=saiyii)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saiyii&label=Profile%20views&color=6C63FF" alt="Profile views" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Young+Apprentice+Developer;Building+Discord+Bots;Learning+Full+Stack+Dev;France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
@@ -35,12 +38,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saiyii&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiyii&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saiyii&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
