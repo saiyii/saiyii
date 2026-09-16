@@ -1,4 +1,5 @@
 <h1 align="center">Hey, I'm Elijah 👋</h1>
+![](https://komarev.com/ghpvc/?username=saiyii)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Young+Apprentice+Developer;Building+Discord+Bots;Learning+Full+Stack+Dev;France+%F0%9F%87%AB%F0%9F%87%B7" alt="Typing SVG" />
